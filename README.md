@@ -2,6 +2,8 @@
 
 *NeoCoin system core. Designed by Amirhossein Mohammadi. 2021 &copy;*
 
+The core is developing. Wait for the stable version.
+
 ## What is NeoCoin?
 **NeoCoin** is based on **CFC ( Company Financial Capital )**. As mentioned, the value of a **NeoCoin** is calculated based on the **financial capital of the company**. The higher the **financial capital**, the higher the value of the **NeoCoin**.
 
@@ -14,4 +16,4 @@ So by increasing $ 100,000 on the **company's $ 100,000 capital**, the company w
 ## License
 **NeoCoin Core** is developing under **Neotrinost LLC** and under the terms of The **GNU General Public License v3.0**.
 
-### Neotrinost LLC 2021 &copy;
+**Neotrinost LLC 2020 - 2021 &copy;**
